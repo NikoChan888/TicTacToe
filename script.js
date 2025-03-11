@@ -42,7 +42,6 @@ function resetGame(){
     box7.innerText="";
     box8.innerText="";
     box9.innerText="";
-    console.log("1")
 }
 
 resetBtn.addEventListener("click",resetGame)
